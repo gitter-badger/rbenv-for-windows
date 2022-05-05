@@ -1,3 +1,10 @@
+# branch: use-pure-msys2
+
+This branch was obsolete, because we don't want to use pure MSYS2 and then run `ridk install`.
+
+Instead we will use MSYS2 which is built into the official RubyInstaller2-devkit.
+
+
 # rbenv for Windows
 
 Manage multiple Rubies on Windows.
